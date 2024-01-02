@@ -19,10 +19,11 @@ Unity3D, Unity Cinemachine(시네머신) 기능
 <h2>기여도</h2>
 <div>
   <h4>2022.08 ~</h4>
-  <p> 기존에 있던 [보자마자 피트니스 -사이클링 투어] 프로젝트에서 아시아 랭킹 시스템 버그 수정 및 컨텐츠 수정 작업</p>
+  <p> 기존에 있던 [보자마자 피트니스 -사이클링 투어] 프로젝트에서 아시아 내 랭킹 시스템 버그 수정 및 컨텐츠 수정 작업</p>
 
-   <h4>2022.012 ~</h4>
-  <p> [ 보자마자 피트니스 - 사이클링 투어 ]   영문 버전 제작 </p>
+   <h4>2022.12 ~</h4>
+ <p> [ 보자마자 피트니스 - 사이클링 투어 ]   영문 버전 제작 </p>
+ 
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/aa58d3a5-92bb-4692-afca-9e756afe0c7b">
 
 [보자마자 피트니스 -사이클링 투어 영문버전 Google Play 앱 링크](https://play.google.com/store/apps/details?id=com.gateways.cyclingtour_en&hl=ko&gl=US)
