@@ -28,10 +28,11 @@ Unity3D, Unity Cinemachine(시네머신) 기능
 
 [보자마자 피트니스 -사이클링 투어 영문버전 Google Play 앱 링크](https://play.google.com/store/apps/details?id=com.gateways.cyclingtour_en&hl=ko&gl=US)
 </div>
-
+<br>
 <h2>유튜브 홍보 영상 링크</h2>
 
-[![보자마자 피트니스 -사이클링 투어 홍보영상](http://img.youtube.com/vi/45nUNQHXj1o&t=5s/0.jpg)](https://www.youtube.com/watch?v=45nUNQHXj1o&t=5s)
+[![보자마자Play리얼모션 시즌2 홍보영상](http://img.youtube.com/vi/45nUNQHXj1o/0.jpg)](https://www.youtube.com/watch?v=45nUNQHXj1o&t=5s)
+
 
 </div>
 
