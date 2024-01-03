@@ -1,7 +1,5 @@
 <div align='center'>
   
-# 보자마자 피트니스 - 사이클링 투어 작업 포트폴리오
-
 <h2>프로젝트 소개</h2>
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/718850b4-4b53-457d-a108-e6ee3532fb57" >
 <h3>  보자마자 피트니스 - 사이클링 투어</h3>
