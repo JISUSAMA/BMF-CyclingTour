@@ -10,14 +10,14 @@
 첫 여행 아시아가 되는 광활한 군단의 작은 소도시.<br>그 곳에서 만나는 랜드마크와 힐링 여행을 즐겨보세요.
 
 
-<summary> (FIT-TAG) 센서 </summary>
+<details>
+<summary> (FIT-TAG) 센서란? </summary>
 <br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/38304918/225186471-ada6bcce-e0bf-4c01-99f6-d2810922fb8c.png" width="600" height="300">
-<img src="https://user-images.githubusercontent.com/38304918/225186482-c0c77481-0a8f-4ada-8ebe-3c92ff8d4b01.png" width="600" height="300" >
-<img src="https://user-images.githubusercontent.com/38304918/225186490-060bb3e0-7664-40db-9c0a-2f8eb7090a74.png" width="600" height="300" >
-<img src="https://user-images.githubusercontent.com/38304918/225186493-fff84767-fb0d-4b03-9f51-4404d49cd176.png" width="600" height="300">
-</p>
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/6f5d9dae-ac98-41a6-a783-3e7fb61f4c27">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/50c7d061-d1b6-4dc8-ab74-a4db4fc14c49">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/08a41c14-8639-4812-80fa-241ec6027fcc">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/a8f24856-a4bd-4140-b598-d74eddd689bb">
+
 </details>
 
 ## 작업 기간
@@ -45,6 +45,8 @@ __2022.08 ~__
 
 <br>
 
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/8999496b-034e-43f1-b403-fbcc0407d66e">
+
 __2022.12 ~__
 
 - [ 보자마자 피트니스 - 사이클링 투어 ]   영문 버전 제작
@@ -52,12 +54,13 @@ __2022.12 ~__
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/aa58d3a5-92bb-4692-afca-9e756afe0c7b">
 
 [보자마자 피트니스 -사이클링 투어 영문버전 Google Play 앱 링크](https://play.google.com/store/apps/details?id=com.gateways.cyclingtour_en&hl=ko&gl=US)
-</div>
+
 <br>
+
 <h2>유튜브 홍보 영상 링크</h2>
 
 [![보자마자Play리얼모션 시즌2 홍보영상](http://img.youtube.com/vi/45nUNQHXj1o/0.jpg)](https://www.youtube.com/watch?v=45nUNQHXj1o&t=5s)
 
 
-
+</div>
  
