@@ -1,7 +1,7 @@
 <div align='center'>
   
 <h2>프로젝트 소개</h2>
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/718850b4-4b53-457d-a108-e6ee3532fb57" >
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/3a3a499d-5812-4c60-ab45-724b8fd8ccfb" >
 
 ### 보자마자 피트니스 - 사이클링 투어
 
@@ -13,10 +13,10 @@
 <details>
 <summary> (FIT-TAG) 센서란? </summary>
 <br>
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/6f5d9dae-ac98-41a6-a783-3e7fb61f4c27">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/50c7d061-d1b6-4dc8-ab74-a4db4fc14c49">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/08a41c14-8639-4812-80fa-241ec6027fcc">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/a8f24856-a4bd-4140-b598-d74eddd689bb">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/4b84d9a0-569c-4027-810c-6f1f1b34545c">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f4bcd9c6-b792-4473-a7ad-4d5238edf4ea">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/94416305-db7d-4df0-9d3b-84c33f463936">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/c04f962c-05e9-474a-b15e-67cdce735753">
 
 </details>
 
@@ -33,7 +33,7 @@ Unity3D, Unity Cinemachine(시네머신) 기능
 
 ## 기여도
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/dfd7a3a3-4ced-4184-a667-3e893f17298b">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e2f99466-a000-466b-8bb9-057464addb98">
 
 <br>
 
@@ -45,13 +45,13 @@ __2022.08 ~__
 
 <br>
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/8999496b-034e-43f1-b403-fbcc0407d66e">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/ed0b27e0-53c5-4bca-b008-35e6cdcd92fb">
 
 __2022.12 ~__
 
 - [ 보자마자 피트니스 - 사이클링 투어 ]   영문 버전 제작
  
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/aa58d3a5-92bb-4692-afca-9e756afe0c7b">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f96b3ba1-fd64-4609-b1fc-e8a1d427da14">
 
 [보자마자 피트니스 -사이클링 투어 영문버전 Google Play 앱 링크](https://play.google.com/store/apps/details?id=com.gateways.cyclingtour_en&hl=ko&gl=US)
 
